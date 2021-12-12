@@ -1,4 +1,6 @@
-# aprendendovue
+# TodoList
+
+Este é um projeto de todolist. foi desenvolvido com o intuito de aprimorar os meus conhecimentos em VueJs
 
 ## Project setup
 ```
