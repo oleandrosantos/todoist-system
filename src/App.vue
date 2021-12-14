@@ -1,13 +1,12 @@
 <template>
-  <CreateTask />
+  <Task />
 </template>
 
 <script>
-import CreateTask from './components/CreateTask.vue'
-
+import Task from './components/Task.vue'
 export default {
   components:{
-    CreateTask
+    Task,
   },
   data(){
     return{
